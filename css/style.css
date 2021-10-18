@@ -1,0 +1,20 @@
+a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: white;
+}
+
+#menu, #contact, #home, #about, #action {
+    display: none;
+}
+
+#cima {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+}
+
+/*#div1, #div2, #div3, #div4, #div5, #div6 {
+    background: linear-gradient(to bottom, rgb(119, 66, 53), #fab1a0, #fdcb6e);
+}*/
