@@ -5,7 +5,7 @@ $(document).ready(function(){
     })
 
     //Criar uma função para monitorar os links
-    $('a').click(function(e){
+    /*$('a').click(function(e){
     e.preventDefault()
     let url = $(this).attr('href');
 
@@ -36,5 +36,5 @@ $(document).ready(function(){
         $('#action').hide();
         $('#home').hide();
     }
-    })
+    })*/
 })
